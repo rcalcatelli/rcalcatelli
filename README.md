@@ -96,6 +96,9 @@ Feel free to reach out if you want to collaborate or just chat about code and mu
 
 ---
 
-Thanks for stopping by! 🚀
+<p align="center">
+  Thanks for stopping by! 🚀
+</p>
+
 
 ---
