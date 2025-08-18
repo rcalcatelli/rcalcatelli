@@ -1,6 +1,11 @@
-## Sup, I'm Renzo Calcatelli 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/renzo-calcatelli-a90682277/)
-[![YouTube](https://img.shields.io/badge/YouTube-rcalcatelli-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@rcalcatelli)
+## <p align="center"> Sup, I'm Renzo Calcatelli 👋 </p>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/renzo-calcatelli-a90682277/) [![YouTube](https://img.shields.io/badge/YouTube-rcalcatelli-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@rcalcatelli)
+
+</div>
+
 
 
 <p align="left">
