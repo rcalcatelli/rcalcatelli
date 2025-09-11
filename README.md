@@ -1,4 +1,4 @@
-## <p align="center"> Sup, I'm Renzo Calcatelli 👋 </p>
+## <p align="center">Sup, I'm Renzo Calcatelli👋 </p>
 
 <div align="center">
 
@@ -6,12 +6,11 @@
 
 </div>
 
-
-
-<p align="left">
-  <small>
-    I'm an <b>aspiring programmer</b> with some practical experience, currently studying for a University Technician degree in Programming at UTN (Universidad Tecnológica Nacional). Always eager to learn, improve my skills, and build useful projects.
-  </small>
+<p align="center">
+  <samp>A dedicated and resourceful aspiring programmer with hands-on development experience, currently pursuing a University Technician degree in Programming at UTN (Universidad Tecnológica Nacional). Demonstrates strong foundational knowledge of the software development lifecycle and growing expertise in modern programming technologies. Committed to continuous learning and skill enhancement, with a proven ability to build practical solutions and adapt to new technical challenges. Possesses a solid understanding of development best practices and emerging technologies required for creating efficient and scalable applications.
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=rcalcatelli" alt="https://github.com/rcalcatelli" />
 </p>
 
 
@@ -29,6 +28,7 @@ Beyond code, I find inspiration in music, books, and exploring new ideas and tec
 - 🎮 Gamer & builder of cool stuff  
 - 💻 Passionate about coding and logic  
 - 📚 Currently leveling up my programming skills at UTN
+
 ---
 ## 🔧 Technical Skills
 ### Main languages
