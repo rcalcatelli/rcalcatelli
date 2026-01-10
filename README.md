@@ -36,11 +36,13 @@ Beyond code, I find inspiration in music, books, and exploring new ideas and tec
 ### <div align="center"> Main languages </div>
 <div align="center">
   
-![Python](https://camo.githubusercontent.com/881f92421018bad3d499e11e36f02d932b24550e8c0ba11a4acd37d880526095/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
 ### Web Technologies
-![HTML5](https://camo.githubusercontent.com/73fecef5a0d9593022477e8bf54d43ea677d7916430bd4c3baf689095a6c0fef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
-![CSS3](https://camo.githubusercontent.com/7ea6e682bdd9667f12bfbc573a90ab7c07256af379aa15bd3bc0bbc7c742f40d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c6174266c6f676f3d63737333)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Other Tools and Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
