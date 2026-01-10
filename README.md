@@ -35,8 +35,7 @@ Beyond code, I find inspiration in music, books, and exploring new ideas and tec
 
 ### <div align="center"> Main languages </div>
 <div align="center">
-  
-### Programming Languages
+ 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
