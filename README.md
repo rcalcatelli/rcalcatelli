@@ -31,7 +31,6 @@ Beyond code, I find inspiration in music, books, and exploring new ideas and tec
 
 ---
 ## 🔧 Technical Skills
-<div align="center">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -51,8 +50,6 @@ Beyond code, I find inspiration in music, books, and exploring new ideas and tec
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-
-</div>
 
 #### **Knowledge & Skills**
 - Data structures, algorithms, and problem analysis
