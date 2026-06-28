@@ -30,12 +30,29 @@ Beyond code, I find inspiration in music, books, and exploring new ideas and tec
 - 📚 Currently leveling up my programming skills at UTN
 
 ---
+
 ## 🔧 Technical Skills
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+### Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate_/_JPA-59666C?style=flat&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-BC2128?style=flat&logo=lombok&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-00684A?style=flat&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ### Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -43,45 +60,58 @@ Beyond code, I find inspiration in music, books, and exploring new ideas and tec
 
 ### Game Development & Scripting
 ![FiveM](https://img.shields.io/badge/FiveM-F40552?style=flat&logo=fivem&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 
-### Tools & Technologies
+### Networking & Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
-#### **Knowledge & Skills**
-- Data structures, algorithms, and problem analysis
-- Intro to Computer Science (CS50 - Harvard University)
-- Logical reasoning and programming concepts
-- Basic systems administration
- 
+---
+
+## 🧠 Knowledge & Concepts
+
+#### **Databases**
+- **NoSQL / MongoDB:** document modeling, MongoDB Atlas, aggregation pipelines, indexing strategies, JSON Schema validators, and database administration (`mongodump` / `mongorestore`)
+- **Relational databases:** normalization, advanced SQL queries, security & integrity, concurrency & transactions, JDBC
+
+#### **Backend Development**
+- REST API design with a layered architecture (controller / service / repository)
+- JPA / Hibernate persistence, entity mapping, and DTO layers
+- Build & dependency management with Maven
+- Functional programming with Java Streams
+
 #### **Computer Science Fundamentals**
 - Data structures, algorithms, and problem analysis
-- Intro to Computer Science (CS50 - Harvard University)
+- Object-oriented programming: inheritance, polymorphism, abstraction, interfaces, exception handling
+- Intro to Computer Science (CS50 – Harvard University)
 - Logical reasoning and programming concepts
-- Basic systems administration
 
-#### **Tools & Technologies**
-- **Programming languages:** C, Python, SQL
-- **Web:** HTML5, CSS
-- **Databases:** Microsoft SQL Server
-- **Operating systems:** Linux, Windows, OS X
-- **Networking:** NAT/PAT, VLAN, LAN/WAN, ACL, VTP
-- **Firewalls & proxies:** Iptables, IPCop, Squid
+#### **Software Engineering & Methodologies**
+- Software development lifecycle (SDLC) and systems methodology
+- Version control workflows with Git
+- Probability & statistics applied with R (descriptive stats, distributions, sampling theory)
+
+#### **Networking & Systems Administration**
+- OSI model and layered communication
+- Routing & switching protocols (static / dynamic), VLANs, VTP, ACLs
+- LAN/WAN technologies and NAT/PAT
+- Firewalls & proxies: Iptables, IPCop, Squid
+- Configuration and troubleshooting of small networks
+- Linux systems administration (Linux, Windows, OS X)
 
 #### **Development & Projects**
+- Backend systems with Java + Spring Boot (REST APIs, JPA entities, service layers)
 - Web and app development using modern tools
+- FiveM / Lua server development: skill-tree systems, crafting mechanics, roleplay scripting, and resource architecture
 - Building small games and web apps
-- Linux systems administration
-- Practical projects during the UTN Programming Technician degree
-
-#### **Other Technical Skills**
-- Basic knowledge of the OSI model and layered communication
-- Routing and switching protocols (static/dynamic)
-- WAN services and LAN technologies
-- Configuration and troubleshooting of small networks
+- Practical projects throughout the UTN Programming Technician degree
 
 ---
 
